@@ -1,1 +1,1 @@
-$(".button").hide().delay(720000).fadeIn("slow");
+$(".button").hide().delay(120000).fadeIn("slow");
